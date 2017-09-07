@@ -1,0 +1,21 @@
+{
+  "name": "easy-espeak",
+  "version": "0.1",
+  "description": "ESpeak module for Nodejs, no bullshit install and go",
+  "author": {
+    "name": "Leyart",
+    "email": "leyart@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leyart/easy-espeak.git"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "node",
+    "nodejs",
+    "speech",
+    "espeak",
+    "tts"
+  ]
+}
